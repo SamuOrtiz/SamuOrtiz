@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamuOrtiz
+- 👋 Hi, I’m @SamuOrtiz and I'm new
 - 👀 I’m interested in Robotics 
 - 🌱 I’m currently learning Arduino 
 - 💞️ I’m looking to collaborate on ...
